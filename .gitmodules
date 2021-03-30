@@ -7,3 +7,6 @@
 [submodule "Projects/Behavioral_Cloning"]
 	path = Projects/Behavioral_Cloning
 	url = https://github.com/DanWang1230/Behavioral_Cloning
+[submodule "Projects/Traffic_Sign_Classifier"]
+	path = Projects/Traffic_Sign_Classifier
+	url = https://github.com/DanWang1230/Traffic_Sign_Classifier
