@@ -7,3 +7,6 @@
 [submodule "Projects/Advanced_Lane_Finding"]
 	path = Projects/Advanced_Lane_Finding
 	url = https://github.com/DanWang1230/Advanced_Lane_Finding
+[submodule "Projects/Behavioral_Cloning"]
+	path = Projects/Behavioral_Cloning
+	url = https://github.com/DanWang1230/Behavioral_Cloning
